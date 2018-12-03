@@ -1,0 +1,11 @@
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/csvtohtml/bin/Debug/netcoreapp2.1/csvtohtml.deps.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/csvtohtml/bin/Debug/netcoreapp2.1/csvtohtml.runtimeconfig.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/csvtohtml/bin/Debug/netcoreapp2.1/csvtohtml.runtimeconfig.dev.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/csvtohtml/bin/Debug/netcoreapp2.1/csvtohtml.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/csvtohtml/bin/Debug/netcoreapp2.1/csvtohtml.pdb
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/csvtohtml/obj/Debug/netcoreapp2.1/csvtohtml.csprojAssemblyReference.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/csvtohtml/obj/Debug/netcoreapp2.1/csvtohtml.csproj.CoreCompileInputs.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/csvtohtml/obj/Debug/netcoreapp2.1/csvtohtml.AssemblyInfoInputs.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/csvtohtml/obj/Debug/netcoreapp2.1/csvtohtml.AssemblyInfo.cs
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/csvtohtml/obj/Debug/netcoreapp2.1/csvtohtml.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/csvtohtml/obj/Debug/netcoreapp2.1/csvtohtml.pdb
